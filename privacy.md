@@ -1,6 +1,6 @@
 # Jasur App Privacy Policy
 
-Last updated: February 9, 2026
+Last updated: February 10, 2026
 
 **Introduction**  
 Jasur (“we,” “us,” or “our”) values your privacy. This Privacy Policy explains how we collect, use, protect, and disclose information when you use the Jasur application and related services.
@@ -26,10 +26,10 @@ Our app may contain links to third-party websites or integrate third-party servi
 You may review, update, or delete your account information by contacting us. You can also opt out of marketing communications, although transactional messages may still be required for technical reasons.
 
 **Children**  
-The Jasur app is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+The Jasur app is restricted to users 18 and older. We do not knowingly permit minors to use the service.
 
 **Changes to this Policy**  
 We may update this Privacy Policy from time to time. We will post the new version with a new “Last updated” date, and if the changes are material, we will provide notice through the app or email.
 
 **Contact Us**  
-For questions or requests, contact [support@jasur.app](mailto:support@jasur.app).
+For questions or requests, contact [jasur.business@gmail.com](mailto:jasur.business@gmail.com).

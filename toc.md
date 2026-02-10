@@ -1,12 +1,12 @@
 # Jasur App Terms and Conditions
 
-Last updated: February 9, 2026
+Last updated: February 10, 2026
 
 **1. Acceptance of Terms**  
 By accessing or using Jasur (the “App”), you agree to these Terms and Conditions and any updates posted here. If you do not agree, do not use the App.
 
 **2. Eligibility**  
-You must be at least 13 years old (or the minimum age in your jurisdiction) to use the App. If you are using the App on behalf of an organization, you represent that you have the authority to bind that organization to these terms.
+You must be at least 18 years old to use the App. If you are using the App on behalf of an organization, you represent that you have the authority to bind that organization to these terms.
 
 **3. Your Account**  
 You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. Notify us immediately if you suspect unauthorized access.
@@ -36,4 +36,4 @@ These terms are governed by the laws of the jurisdiction where Jasur is headquar
 We may revise these Terms and Conditions at any time. We will post the updated version with a new “Last updated” date. Continued use constitutes acceptance of the revised terms.
 
 **12. Contact**  
-For questions about these terms, email [support@jasur.app](mailto:support@jasur.app).
+For questions about these terms, email [jasur.business@gmail.com](mailto:jasur.business@gmail.com).
